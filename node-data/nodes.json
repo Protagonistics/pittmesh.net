@@ -16,6 +16,13 @@ onLoadMarkers(
     "hood": "Allentown",
     "status": "live"
   },
+    "lat": 40.421908,
+    "lon": -79.993907,
+    "name": "753 East Warrington Avenue",
+    "address": "753 East Warrington Avenue, Pittsburgh, PA 15210",
+    "hood": "Allentown",
+    "status": "live"
+  },
   {
     "lat": 40.421535,
     "lon": -79.992927,
